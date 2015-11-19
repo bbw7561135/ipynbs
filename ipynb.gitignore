@@ -1,0 +1,3 @@
+# ipynb temp saves
+./.ipynb_checkpoints*
+./examples/
